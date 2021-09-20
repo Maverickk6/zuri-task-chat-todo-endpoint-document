@@ -15,6 +15,14 @@ This plugin allows a user to retrieve a list of sorted tasks.
  ## Responses
  Successful Operation
 - Status Code: 200.
+-  Response Body
+```
+{
+  "additionalProp1": 0,
+  "additionalProp2": 0,
+  "additionalProp3": 0
+}
+```
 
  Not Found
 - Status Code: 400
