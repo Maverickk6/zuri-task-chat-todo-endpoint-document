@@ -24,7 +24,7 @@ This plugin allows a user to retrieve a list of sorted tasks.
 # Cancel Recurring Task
 ## Description
 
-This Plugin allows a user to cancel recurring tasks by setting them to null.
+This Plugin allows a user to cancel recurring tasks by setting them to null or false.
 
 ## Endpoint
 */cancel_recurringTask/\*
